@@ -30,7 +30,7 @@ in no particular order:
     * collect proceeds from nft sales and vault commissions
     * funds ongoing and future banana development, grants, incentives, and airdrops
 * build banana team:
-    * these roles can be indviduals or subdaos as applicable and approved by the dao
+    * these roles can be individuals or subdaos as applicable and approved by the dao
     * BD (banana development) lead:
         * build relationships with potential high value partners
         * manage banana grants and funding deliverables
